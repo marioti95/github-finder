@@ -1,0 +1,2 @@
+(this["webpackJsonpgithub-finder"]=this["webpackJsonpgithub-finder"]||[]).push([[0],{11:function(e,t,n){},12:function(e,t,n){"use strict";n.r(t);var c=n(0),i=n.n(c),r=n(2),u=n.n(r),a=(n(9),n(3)),o=n.n(a),s=(n(11),function(){return Object(c.useEffect)((function(){o.a.AutoInit()})),i.a.createElement("div",{className:"App"},"My App")});u.a.render(i.a.createElement(i.a.StrictMode,null,i.a.createElement(s,null)),document.getElementById("root"))},4:function(e,t,n){e.exports=n(12)}},[[4,1,2]]]);
+//# sourceMappingURL=main.403dab5b.chunk.js.map
